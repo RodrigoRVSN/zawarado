@@ -1,13 +1,13 @@
-import { HTMLAttributes, DetailedHTMLProps, InputHTMLAttributes } from 'react';
+import { ButtonHTMLAttributes, InputHTMLAttributes } from 'react';
 
-interface ButtonProps extends HTMLAttributes<HTMLInputElement> {
+interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
     title: string;
 }
 declare const Button: ({ title, ...rest }: ButtonProps) => JSX.Element;
 
-interface InputProps extends DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement> {
+interface InputProps extends InputHTMLAttributes<HTMLInputElement> {
 }
-declare const Input: ({ value, ...rest }: InputProps) => JSX.Element;
+declare const Input: ({ ...rest }: InputProps) => JSX.Element;
 
 declare const Todo: ({ text }: {
     text: String;

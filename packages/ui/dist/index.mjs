@@ -10,7 +10,7 @@ var Button = ({ title, ...rest }) => {
 
 // src/Input/index.tsx
 import { jsx as jsx2 } from "react/jsx-runtime";
-var Input = ({ value, ...rest }) => {
+var Input = ({ ...rest }) => {
   return /* @__PURE__ */ jsx2("input", {
     className: "bg-gray-300 p-2 rounded-lg",
     ...rest

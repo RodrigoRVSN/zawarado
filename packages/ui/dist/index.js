@@ -38,7 +38,7 @@ var Button = ({ title, ...rest }) => {
 
 // src/Input/index.tsx
 var import_jsx_runtime2 = require("react/jsx-runtime");
-var Input = ({ value, ...rest }) => {
+var Input = ({ ...rest }) => {
   return /* @__PURE__ */ (0, import_jsx_runtime2.jsx)("input", {
     className: "bg-gray-300 p-2 rounded-lg",
     ...rest
