@@ -2,15 +2,17 @@
 
 <!--- https://shields.io --->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/rodrigorvsn/zawaradostyle=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/rodrigorvsn/zawaradostyle=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/rodrigorvsn/zawaradostyle=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/rodrigorvsn/zawaradostyle=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/rodrigorvsn/zawaradostyle=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/rodrigorvsn/zawarado?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/rodrigorvsn/zawarado?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/rodrigorvsn/zawarado?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/rodrigorvsn/zawarado?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/rodrigorvsn/zawarado?style=for-the-badge)
 
 ___
 
 <!--- #################### mudar badges #################### --->
+
+![image](https://user-images.githubusercontent.com/75763403/193473978-d868d7cb-f1da-4c14-bf75-039d3304be9b.png)
 
 <!--- #################### mudar imagem exemplo #################### --->
 ___
