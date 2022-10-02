@@ -11,6 +11,8 @@ export default function Home() {
   const [todoTask, setTodoTask] = useState('')
 
   const handleAddTask = () => {
+    if (!todoTask.trim()) return
+    
     setTodoTask('')
     dispatch(createTodo(todoTask))
   }
@@ -18,7 +20,7 @@ export default function Home() {
   return ( 
     <div className="flex min-h-screen flex-col items-center justify-center py-2">
       <Head>
-        <title>Web - Turborepo Example</title>
+        <title>Redux</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
